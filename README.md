@@ -1,6 +1,5 @@
 ## Hi there!
-I'm Dipra !
-I'm a Computer Science student pursuing my undergrad degree at BUET.
+I'm Dipra, a Computer Science student pursuing my undergrad degree at BUET.
 <!--
 **Irham-Dipra/Irham-Dipra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
